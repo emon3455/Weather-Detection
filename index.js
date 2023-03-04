@@ -1,5 +1,5 @@
 //17230078d15d5e6d7de45fcda93506b8
-//https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={api key}
+//https://api.openweathermap.org/data/2.5/weather?q={city-name}&appid={api key}
 //https://api.openweathermap.org/data/2.5/weather?q=dhaka&appid=17230078d15d5e6d7de45fcda93506b8
 
 const apiKey = "17230078d15d5e6d7de45fcda93506b8";
